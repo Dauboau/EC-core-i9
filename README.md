@@ -19,6 +19,13 @@ https://drive.google.com/file/d/1e_JHPhBYwvhQFCCj4OG3e8RY8cobj7ZD/view?usp=shari
             <br />
             <sub><b>Daniel Contente Romanzini</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Guichiarotto">
+            <img src="https://avatars.githubusercontent.com/u/110139874?v=4" width="100;" alt="Guichiarotto"/>
+            <br />
+            <sub><b>Guilherme Chiarotto De Moraes</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
