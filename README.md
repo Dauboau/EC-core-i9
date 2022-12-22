@@ -4,6 +4,10 @@ Repository with the components for building the EC-core-i9, a student made proce
 
 ![EC-Core-i9](https://user-images.githubusercontent.com/86164187/208320217-023d8627-6a12-428d-becf-0830a1b595c8.png)
 
+## Vídeo Explicando o Trabalho!
+
+https://drive.google.com/file/d/1e_JHPhBYwvhQFCCj4OG3e8RY8cobj7ZD/view?usp=sharing
+
 ## Contribuidores
 
 <!-- readme: contributors -start -->
